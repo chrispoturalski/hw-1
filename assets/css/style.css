@@ -38,6 +38,7 @@ body {
 /* Changed div to nav */
 .header nav ul li {
     display: inline-block;
+    align-items: right;
     margin-left: 25px;
 }
 
