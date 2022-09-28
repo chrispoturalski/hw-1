@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Changed div to nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Changed div to nav */
 .header nav ul {
     list-style-type: none;
 }
-
+/* Changed div to nav */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -85,23 +85,23 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Created new "benefit" class to help clean up repetitive code */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Created benefit class to cut down on repetitive h3 code */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Created benefit class to cut down on repetitive img code */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Created benefit class to cut down on repetitive p code */
 .benefit p {
     text-align: center;
 }
@@ -134,3 +134,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* In Total I have condensed 200 lines of code to 136 lines of code without changing the image*/
