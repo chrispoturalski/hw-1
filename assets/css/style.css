@@ -3,23 +3,23 @@
     padding: 0;
     margin: 0;
 }
-
+/* changes background color */
 body {
     background-color: #d9dcd6;
 }
-
+/* modifies the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* modifies the header h1 */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* changes the color of the "seo" text in the header */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -41,16 +41,16 @@ body {
     align-items: right;
     margin-left: 25px;
 }
-
+/* changes the color and takes away the underline in the nav links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* p tag font size */
 p {
     font-size: 16px;
 }
-
+/* modifies the hero image */ 
 .hero {
     height: 800px;
     width: 100%;
@@ -75,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* modifies the benefits div */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -124,7 +124,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*Modified the footer at the bottom of the page*/
 .footer {
     padding: 30px;
     clear: both;
